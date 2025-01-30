@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb1d2c53.css",
+    "main.js": "/static/js/main.e763f2cc.js",
+    "static/js/453.fe289adb.chunk.js": "/static/js/453.fe289adb.chunk.js",
+    "static/media/wood-background.jpg": "/static/media/wood-background.eb9aa3ad6c9647c38511.jpg",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.4df14eb5e72bf55c4497.ttf",
+    "static/media/Newsreader-VariableFont_opsz,wght.ttf": "/static/media/Newsreader-VariableFont_opsz,wght.5032d4be14f4a0091c82.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.fb1d2c53.css.map": "/static/css/main.fb1d2c53.css.map",
+    "main.e763f2cc.js.map": "/static/js/main.e763f2cc.js.map",
+    "453.fe289adb.chunk.js.map": "/static/js/453.fe289adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1d2c53.css",
+    "static/js/main.e763f2cc.js"
+  ]
+}
